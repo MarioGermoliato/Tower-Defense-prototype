@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class Waypoint : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] GameObject ballista;
+    [SerializeField] bool isPlaceable;    
+    public bool IsPlaceable { get { return isPlaceable; } }
+    private void OnMouseDown()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        if(isPlaceable)
+        {
+            Instantiate(ballista, transform.position, Quaternion.identity);
+            isPlaceable = false;
+        }
+           
+    }       
+       
 }
