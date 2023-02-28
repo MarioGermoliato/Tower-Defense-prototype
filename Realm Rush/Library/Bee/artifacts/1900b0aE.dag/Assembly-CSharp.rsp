@@ -352,6 +352,7 @@
 "Assets/Scripts/EnemyMover.cs"
 "Assets/Scripts/GoldTxt.cs"
 "Assets/Scripts/ObjectPool.cs"
+"Assets/Scripts/SurvivalTime.cs"
 "Assets/Scripts/TargetLocator.cs"
 "Assets/Scripts/Tower.cs"
 "Assets/Scripts/Waypoint.cs"
