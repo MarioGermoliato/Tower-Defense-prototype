@@ -8,12 +8,52 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: m_text
+      value: 0,0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: m_fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4397283134983056222, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_Name
       value: Tile Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6418928638930460812, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: pathColor.b
+      value: 0.050418302
+      objectReference: {fileID: 0}
+    - target: {fileID: 6418928638930460812, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: pathColor.g
+      value: 0.050418302
+      objectReference: {fileID: 0}
+    - target: {fileID: 6418928638930460812, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: pathColor.r
+      value: 0.9716981
       objectReference: {fileID: 0}
     - target: {fileID: 7715867764041430526, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_Mesh
