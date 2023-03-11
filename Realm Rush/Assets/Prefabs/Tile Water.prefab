@@ -13,7 +13,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3156394763713774633, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_fontSize
@@ -42,6 +42,10 @@ PrefabInstance:
     - target: {fileID: 4397283134983056222, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_Name
       value: Tile Water
+      objectReference: {fileID: 0}
+    - target: {fileID: 7251969589726499462, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: isPlaceable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7715867764041430526, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_Mesh

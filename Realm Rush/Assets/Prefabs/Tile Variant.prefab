@@ -55,6 +55,10 @@ PrefabInstance:
       propertyPath: pathColor.r
       value: 0.9716981
       objectReference: {fileID: 0}
+    - target: {fileID: 7251969589726499462, guid: 2f5f29981278db540827821510480e0e, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7715867764041430526, guid: 2f5f29981278db540827821510480e0e, type: 3}
       propertyPath: m_Mesh
       value: 
